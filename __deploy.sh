@@ -1,5 +1,5 @@
 #!/bin/sh
 
 # Upload to server
-scp -r _site/* msaveski@ml.media.mit.edu:public_html/
+scp -r _site/* behindstarter42@korea.ac.kr:public_html/
 
