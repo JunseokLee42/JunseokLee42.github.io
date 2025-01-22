@@ -1,7 +1,7 @@
 experiences:
 
 - place: "UTL Lab"
-  time: "Jan 2024 - Present"
+  time: "Jan 2025 - Present"
   title: "Research Intern (Advisor: Donghyun Kim)"
   subtitle: "TBD"
   category: "school"
@@ -30,12 +30,6 @@ experiences:
   subtitle: "Worked on extractive summarization with ETRI BERT"
   category: "work"
 
-- place: "Korea University"
-  time: "Sep 2020 - Mar. 2021"
-  title: "Major in geography education"
-  subtitle: ""
-  category: "school"
-
 - place: "5th Air Mobility Wing"
   time: "June 2018 - May 2020"
   title: "Military Service"
@@ -43,7 +37,7 @@ experiences:
   category: "work"
 
 - place: "Korea University"
-  time: "Mar 2017 - June 2018"
+  time: "Mar 2017 - Mar 2021"
   title: "Major in geography education"
   subtitle: ""
   category: "school"
