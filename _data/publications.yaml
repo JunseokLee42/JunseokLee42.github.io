@@ -2,7 +2,7 @@ papers:
   - title: "Self-checklist Prompting for Enhancing Video Modular Reasoning"
     year: "2024"
     authors:  Jinyoung Kim, Ji Soo Lee, Sehyung Kim, <b><u>Junseok Lee</u></b>, Yunyang Xiong, Hyunwoo J. Kim†
-    venue: Under Review, submitted to CVPR 2025
+    venue: Under Review
     paper_pdf: https://drive.google.com/file/d/1UEhcMJEGEyDOYRdBCNWTQbbeddSd59ug/view
     code: 
     selected: y
