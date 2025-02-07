@@ -3,7 +3,7 @@ papers:
     year: "2024"
     authors:  Jinyoung Kim, Ji Soo Lee, Sehyung Kim, <b><u>Junseok Lee</u></b>, Yunyang Xiong, Hyunwoo J. Kim†
     venue: Under Review
-    paper_pdf: https://drive.google.com/file/d/1UEhcMJEGEyDOYRdBCNWTQbbeddSd59ug/view
+    paper_pdf:
     code: 
     selected: y
   
