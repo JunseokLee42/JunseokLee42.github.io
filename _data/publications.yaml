@@ -2,7 +2,7 @@ papers:
   - title: "Self-checklist Prompting for Enhancing Video Modular Reasoning"
     year: "2024"
     authors:  Jinyoung Kim, Ji Soo Lee, Sehyung Kim, <b><u>Junseok Lee</u></b>, Yunyang Xiong, Hyunwoo J. Kim†
-    venue: Under Review, Submitted to CVPR 2025
+    venue: Under Review, Submitted to ICCV 2025
     paper_pdf:
     code: 
     selected: y
@@ -16,7 +16,7 @@ papers:
     selected: n
 
   - title: "SoccerNet 2024 Challenges Results"
-    authors: Anthony Cioppa, Silvio Giancola, Vladimir Somers, Victor Joos, Floriane Magera, Jan Held, Seyed Abolfazl Ghasemzadeh, Xin Zhou, Karolina Seweryn, Mateusz Kowalczyk, Zuzanna Mróz, Szymon Łukasik, Michał Hałoń, Hassan Mkhallati, Adrien Deliège, Carlos Hinojosa, Karen Sanchez, Amir M. Mansourian, Pierre Miralles, Olivier Barnich, Christophe De Vleeschouwer, Alexandre Alahi, Bernard Ghanem, Marc Van Droogenbroeck, Adam Gorski, Albert Clapés, Andrei Boiarov, Anton Afanasiev, Artur Xarles, Atom Scott, ByoungKwon Lim, Calvin Yeung, Cristian Gonzalez, Dominic Rüfenacht, Enzo Pacilio, Fabian Deuser, Faisal Sami Altawijri, Francisco Cachón, HanKyul Kim, Haobo Wang, Hyeonmin Choe, Hyunwoo J Kim, Il-Min Kim, Jae-Mo Kang, Jamshid Tursunboev, Jian Yang, Jihwan Hong, Jimin Lee, Jing Zhang, <b><u>Junseok Lee</u></b>, Kexin Zhang, Konrad Habel, Licheng Jiao, Linyi Li, Marc Gutiérrez-Pérez, Marcelo Ortega, Menglong Li, Milosz Lopatto, Nikita Kasatkin, Nikolay Nemtsev, Norbert Oswald, Oleg Udin, Pavel Kononov, Pei Geng, Saad Ghazai Alotaibi, Sehyung Kim, Sergei Ulasen, Sergio Escalera, Shanshan Zhang, Shuyuan Yang, Sunghwan Moon, Thomas B. Moeslund, Vasyl Shandyba, Vladimir Golovkin, Wei Dai, WonTaek Chung, Xinyu Liu, Yongqiang Zhu, Youngseo Kim, Yuan Li, Yuting Yang, Yuxuan Xiao, Zehua Cheng, Zhihao Li
+    authors: Anthony Cioppa, Silvio Giancola, ... <b><u>Junseok Lee</u></b>, ... Zhihao Li
     venue: "CVPR 2024 Workshop CVSports"
     paper_pdf: "https://arxiv.org/abs/2409.10587"
     website: 
